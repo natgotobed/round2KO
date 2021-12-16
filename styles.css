@@ -1,0 +1,68 @@
+/*******************************TAGS***********************/
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #FFB0CD
+}
+
+h1 {
+  margin-top: 0;
+  font-family: 'Dawning of a New Day', cursive;
+  color: black;
+}
+
+h2 {
+  font-family: 'Press Start 2P', cursive;
+}
+
+h3 {
+  font-family: 'Press Start 2P', cursive;
+}
+
+h6 {
+  font-family: 'Press Start 2P', cursive;
+}
+
+p {
+  font-family: 'Courier Prime', monospace;
+  color: #FFFFFF;
+}
+
+/***********CLASS********/
+.top-container {
+  position: relative;
+  padding-top: 100px;
+  ;
+}
+
+.middle-container {
+  ;
+}
+
+.bottom-container {
+  ;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.footer-link {
+  font-family: 'Courier Prime', monospace;
+}
+
+.btn {
+  font-family: 'Press Start 2P', cursive;
+}
+
+.NS {
+  font-family: 'Dawning of a New Day', cursive;
+}
